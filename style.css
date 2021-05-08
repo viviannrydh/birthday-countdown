@@ -1,0 +1,30 @@
+
+body{
+    box-sizing: border-box;
+    background-color:rgb(241, 241, 228);
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+h1{
+    margin-left: 2%;
+}
+
+.time-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width:60%;
+    margin-bottom: 5%;
+    margin-left: 3%;
+}
+
+span{
+    padding-left: 5%;
+}
+img{
+    margin-left: 8%;
+}
+
